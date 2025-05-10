@@ -316,3 +316,17 @@ class galery_screen : AppCompatActivity() {
 
 
 '''
+
+'''
+![image](https://github.com/user-attachments/assets/ef5a0392-9457-4ffb-967a-6a45bac49bbe)
+
+![image](https://github.com/user-attachments/assets/9fca5c3b-a978-462f-9d5a-804de4f43d9e)
+
+![image](https://github.com/user-attachments/assets/50514133-f5cb-49e8-ada0-ed1e7e805820)
+
+![image](https://github.com/user-attachments/assets/920e7973-e690-46f4-979b-101abba2ac91)
+
+
+
+
+'''
